@@ -76,3 +76,4 @@ INSERT INTO n_cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main
 INSERT INTO n_cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina',
 'Saint Petersburg', NULL, 'Russia', NULL,'POOR', '11', '5', NULL);
 COMMIT;
+USE BD
